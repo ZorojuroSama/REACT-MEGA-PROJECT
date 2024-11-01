@@ -1,4 +1,6 @@
 {
   "files.autoSave": "afterDelay",
-  "editor.fontSize": 16
+  "editor.fontSize": 16,
+  "editor.guides.bracketPairs": "active",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true
 }
