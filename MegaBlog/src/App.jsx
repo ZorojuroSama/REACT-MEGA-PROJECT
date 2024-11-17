@@ -33,7 +33,7 @@ function App() {
     </div>
   ) : (
     <div className="flex flex-wrap content-between min-h-screen bg-zinc-800 text-white">
-      <div className="w-full block">
+      <div className="w-full block text-center">
         <Header />
         <main>TODO: {/* <Outlet/> */}</main>
         <Footer />
